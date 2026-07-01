@@ -20,9 +20,9 @@ Recent BS Computer Science graduate who builds clean, responsive, API-integrated
 
 ### 🚀 What I've built
 
-- **[Movie Search App](#)** — Real-time movie discovery using the TMDB REST API, with debounced search and async data fetching.
+- **[Movie Search App](https://movie-search-website-three.vercel.app/)** — Real-time movie discovery using the TMDB REST API, with debounced search and async data fetching.
 - **[Weather App](#)** — Live weather lookup by city with error-state handling and a responsive UI.
-- **[Portfolio Website](#)** — My personal site, hand-coded mobile-first with semantic HTML5.
+- **[Portfolio Website](https://my-portfolio-website-olive.vercel.app/)** — My personal site, hand-coded mobile-first with semantic HTML5.
 - **[To-Do App](#)** — Task manager with DOM-based state handling and localStorage persistence.
 - **[Tip Calculator](#)** — Real-time bill-splitting tool using vanilla JS event listeners.
 
