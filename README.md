@@ -26,8 +26,6 @@ Recent BS Computer Science graduate who builds clean, responsive, API-integrated
 - **[To-Do App](#)** — Task manager with DOM-based state handling and localStorage persistence.
 - **[Tip Calculator](#)** — Real-time bill-splitting tool using vanilla JS event listeners.
 
-*(Swap the `#` links above with your actual repo URLs)*
-
 ---
 
 ### 📫 Let's connect
@@ -39,4 +37,4 @@ Recent BS Computer Science graduate who builds clean, responsive, API-integrated
 
 ---
 
-💡 *Open to internships, entry-level roles, and remote opportunities — let's build something together.*
+💡 *let's build something together.*
